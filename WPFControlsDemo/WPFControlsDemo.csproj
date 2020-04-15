@@ -11,4 +11,8 @@
     <PackageReference Include="Caliburn.Micro.Core" Version="4.0.105-alpha" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DemoLibrary\DemoLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
